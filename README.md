@@ -1,4 +1,4 @@
-# Predict Votality in Apple Stock price from 2002-2016 (AAPL)
+# Time Series for Apple Stock price from 2002-2016 (AAPL)
 The purpose of this data analysis is to perform an exploratory analysis and
 develop time series model of Apple stock prices. We would like to provide the best
 model that can be used to precisely forecast the upcoming Apple stock price. As we
